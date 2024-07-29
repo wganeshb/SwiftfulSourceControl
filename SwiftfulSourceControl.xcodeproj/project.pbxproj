@@ -11,6 +11,7 @@
 		1F0945872C572C0E005D25BF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F0945862C572C0E005D25BF /* ContentView.swift */; };
 		1F0945892C572C10005D25BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F0945882C572C10005D25BF /* Assets.xcassets */; };
 		1F09458C2C572C10005D25BF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F09458B2C572C10005D25BF /* Preview Assets.xcassets */; };
+		1F0945942C573A6C005D25BF /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F0945932C573A6C005D25BF /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		1F0945882C572C10005D25BF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1F09458B2C572C10005D25BF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1F09458D2C572C10005D25BF /* SwiftfulSourceControl.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SwiftfulSourceControl.entitlements; sourceTree = "<group>"; };
+		1F0945932C573A6C005D25BF /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				1F0945842C572C0E005D25BF /* SwiftfulSourceControlApp.swift */,
 				1F0945862C572C0E005D25BF /* ContentView.swift */,
+				1F0945932C573A6C005D25BF /* HomeView.swift */,
 				1F0945882C572C10005D25BF /* Assets.xcassets */,
 				1F09458D2C572C10005D25BF /* SwiftfulSourceControl.entitlements */,
 				1F09458A2C572C10005D25BF /* Preview Content */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1F0945942C573A6C005D25BF /* HomeView.swift in Sources */,
 				1F0945872C572C0E005D25BF /* ContentView.swift in Sources */,
 				1F0945852C572C0E005D25BF /* SwiftfulSourceControlApp.swift in Sources */,
 			);
